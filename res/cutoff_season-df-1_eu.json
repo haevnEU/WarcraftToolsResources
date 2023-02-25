@@ -1,0 +1,1285 @@
+{
+    "cutoffs": {
+        "updatedAt": "2023-01-17T07:38:57Z",
+        "region": {
+            "name": "Europe",
+            "slug": "eu",
+            "short_name": "EU"
+        },
+        "p999": {
+            "horde": {
+                "quantile": 0.999,
+                "quantileMinValue": 2888.21,
+                "quantilePopulationCount": 716,
+                "quantilePopulationFraction": 0.001001094772635438,
+                "totalPopulationCount": 715217
+            },
+            "hordeColor": "#f46d56",
+            "alliance": {
+                "quantile": 0.999,
+                "quantileMinValue": 2861.17,
+                "quantilePopulationCount": 374,
+                "quantilePopulationFraction": 0.0010019073744668996,
+                "totalPopulationCount": 373288
+            },
+            "allianceColor": "#f26b5b",
+            "all": {
+                "quantile": 0.999,
+                "quantileMinValue": 2879.44,
+                "quantilePopulationCount": 1091,
+                "quantilePopulationFraction": 0.0010022921346250133,
+                "totalPopulationCount": 1088505
+            },
+            "allColor": "#f46d56"
+        },
+        "p990": {
+            "horde": {
+                "quantile": 0.99,
+                "quantileMinValue": 2697.42,
+                "quantilePopulationCount": 7153,
+                "quantilePopulationFraction": 0.010001160486957105,
+                "totalPopulationCount": 715217
+            },
+            "hordeColor": "#e75e7e",
+            "alliance": {
+                "quantile": 0.99,
+                "quantileMinValue": 2618.57,
+                "quantilePopulationCount": 3733,
+                "quantilePopulationFraction": 0.010000321467606781,
+                "totalPopulationCount": 373288
+            },
+            "allianceColor": "#e2588d",
+            "all": {
+                "quantile": 0.99,
+                "quantileMinValue": 2677.15,
+                "quantilePopulationCount": 10886,
+                "quantilePopulationFraction": 0.010000872756670847,
+                "totalPopulationCount": 1088505
+            },
+            "allColor": "#e75e7e"
+        },
+        "p900": {
+            "horde": {
+                "quantile": 0.9,
+                "quantileMinValue": 2246.56,
+                "quantilePopulationCount": 71522,
+                "quantilePopulationFraction": 0.10000041945311702,
+                "totalPopulationCount": 715217
+            },
+            "hordeColor": "#b93dd6",
+            "alliance": {
+                "quantile": 0.9,
+                "quantileMinValue": 2079.24,
+                "quantilePopulationCount": 37330,
+                "quantilePopulationFraction": 0.1000032146760678,
+                "totalPopulationCount": 373288
+            },
+            "allianceColor": "#9a3fec",
+            "all": {
+                "quantile": 0.9,
+                "quantileMinValue": 2194.1,
+                "quantilePopulationCount": 108855,
+                "quantilePopulationFraction": 0.10000413411054612,
+                "totalPopulationCount": 1088505
+            },
+            "allColor": "#ac38e4"
+        },
+        "p750": {
+            "horde": {
+                "quantile": 0.75,
+                "quantileMinValue": 1773.78,
+                "quantilePopulationCount": 178806,
+                "quantilePopulationFraction": 0.25000244680984934,
+                "totalPopulationCount": 715217
+            },
+            "hordeColor": "#5764e2",
+            "alliance": {
+                "quantile": 0.75,
+                "quantileMinValue": 1573.4250000000002,
+                "quantilePopulationCount": 93322,
+                "quantilePopulationFraction": 0.25,
+                "totalPopulationCount": 373288
+            },
+            "allianceColor": "#1b74d9",
+            "all": {
+                "quantile": 0.75,
+                "quantileMinValue": 1707.98,
+                "quantilePopulationCount": 272127,
+                "quantilePopulationFraction": 0.25000068901842437,
+                "totalPopulationCount": 1088505
+            },
+            "allColor": "#3d6be0"
+        },
+        "p600": {
+            "horde": {
+                "quantile": 0.6,
+                "quantileMinValue": 1311.17,
+                "quantilePopulationCount": 286089,
+                "quantilePopulationFraction": 0.40000307598952484,
+                "totalPopulationCount": 715217
+            },
+            "hordeColor": "#589caf",
+            "alliance": {
+                "quantile": 0.6,
+                "quantileMinValue": 1125.73,
+                "quantilePopulationCount": 149316,
+                "quantilePopulationFraction": 0.40000214311737853,
+                "totalPopulationCount": 373288
+            },
+            "allianceColor": "#5fba8e",
+            "all": {
+                "quantile": 0.6,
+                "quantileMinValue": 1245.41,
+                "quantilePopulationCount": 435404,
+                "quantilePopulationFraction": 0.4000018373824649,
+                "totalPopulationCount": 1088505
+            },
+            "allColor": "#5da7a3"
+        },
+        "graphData": {
+            "p999": {
+                "type": "spline",
+                "name": "Top 0.1%",
+                "data": [
+                    {
+                        "x": 1673843517000,
+                        "y": 2879.44,
+                        "total": 1076
+                    },
+                    {
+                        "x": 1673749225000,
+                        "y": 2865.8,
+                        "total": 1061
+                    },
+                    {
+                        "x": 1673662601000,
+                        "y": 2851.05,
+                        "total": 1047
+                    },
+                    {
+                        "x": 1673576037000,
+                        "y": 2835.04,
+                        "total": 1037
+                    },
+                    {
+                        "x": 1673489129000,
+                        "y": 2820.13,
+                        "total": 1028
+                    },
+                    {
+                        "x": 1673402691000,
+                        "y": 2807.4,
+                        "total": 1017
+                    },
+                    {
+                        "x": 1673315715000,
+                        "y": 2801.03,
+                        "total": 994
+                    },
+                    {
+                        "x": 1673229317000,
+                        "y": 2795.49,
+                        "total": 977
+                    },
+                    {
+                        "x": 1673142552000,
+                        "y": 2784.01,
+                        "total": 956
+                    },
+                    {
+                        "x": 1673056367000,
+                        "y": 2768.42,
+                        "total": 937
+                    },
+                    {
+                        "x": 1672969533000,
+                        "y": 2746.74,
+                        "total": 922
+                    },
+                    {
+                        "x": 1672883066000,
+                        "y": 2723.76,
+                        "total": 911
+                    },
+                    {
+                        "x": 1672796120000,
+                        "y": 2702.5,
+                        "total": 898
+                    },
+                    {
+                        "x": 1672709950000,
+                        "y": 2695.98,
+                        "total": 864
+                    },
+                    {
+                        "x": 1672622606000,
+                        "y": 2684.5,
+                        "total": 838
+                    },
+                    {
+                        "x": 1672536937000,
+                        "y": 2672.4,
+                        "total": 815
+                    },
+                    {
+                        "x": 1672450497000,
+                        "y": 2657.59,
+                        "total": 799
+                    },
+                    {
+                        "x": 1672363887000,
+                        "y": 2622.66,
+                        "total": 778
+                    },
+                    {
+                        "x": 1672276882000,
+                        "y": 2578.35,
+                        "total": 760
+                    },
+                    {
+                        "x": 1672190429000,
+                        "y": 2538.56,
+                        "total": 742
+                    },
+                    {
+                        "x": 1672103668000,
+                        "y": 2523.49,
+                        "total": 713
+                    },
+                    {
+                        "x": 1672017259000,
+                        "y": 2500.86,
+                        "total": 692
+                    },
+                    {
+                        "x": 1671930745000,
+                        "y": 2466.44,
+                        "total": 675
+                    },
+                    {
+                        "x": 1671844228000,
+                        "y": 2438.35,
+                        "total": 662
+                    },
+                    {
+                        "x": 1671757509000,
+                        "y": 2351.58,
+                        "total": 647
+                    },
+                    {
+                        "x": 1671671067000,
+                        "y": 2180.86,
+                        "total": 633
+                    },
+                    {
+                        "x": 1671584343000,
+                        "y": 1827.07,
+                        "total": 610
+                    },
+                    {
+                        "x": 1671497609000,
+                        "y": 1799.49,
+                        "total": 573
+                    },
+                    {
+                        "x": 1671410859000,
+                        "y": 1769.74,
+                        "total": 540
+                    },
+                    {
+                        "x": 1671323608000,
+                        "y": 1728.59,
+                        "total": 495
+                    },
+                    {
+                        "x": 1671237175000,
+                        "y": 1678.67,
+                        "total": 450
+                    },
+                    {
+                        "x": 1671150680000,
+                        "y": 1564.39,
+                        "total": 396
+                    },
+                    {
+                        "x": 1671064139000,
+                        "y": 1368.86,
+                        "total": 228
+                    },
+                    {
+                        "x": 1670993109000,
+                        "y": 165,
+                        "total": 5
+                    }
+                ],
+                "color": "#f46d56",
+                "marker": {
+                    "enabled": false
+                }
+            },
+            "p990": {
+                "type": "spline",
+                "name": "Top 1%",
+                "data": [
+                    {
+                        "x": 1673843517000,
+                        "y": 2677.15,
+                        "total": 10757
+                    },
+                    {
+                        "x": 1673749225000,
+                        "y": 2659.37,
+                        "total": 10601
+                    },
+                    {
+                        "x": 1673662601000,
+                        "y": 2643.64,
+                        "total": 10466
+                    },
+                    {
+                        "x": 1673576037000,
+                        "y": 2626.19,
+                        "total": 10361
+                    },
+                    {
+                        "x": 1673489129000,
+                        "y": 2611.99,
+                        "total": 10277
+                    },
+                    {
+                        "x": 1673402691000,
+                        "y": 2598.49,
+                        "total": 10167
+                    },
+                    {
+                        "x": 1673315715000,
+                        "y": 2589.15,
+                        "total": 9933
+                    },
+                    {
+                        "x": 1673229317000,
+                        "y": 2580.43,
+                        "total": 9766
+                    },
+                    {
+                        "x": 1673142552000,
+                        "y": 2568.07,
+                        "total": 9557
+                    },
+                    {
+                        "x": 1673056367000,
+                        "y": 2547.12,
+                        "total": 9368
+                    },
+                    {
+                        "x": 1672969533000,
+                        "y": 2522.6,
+                        "total": 9219
+                    },
+                    {
+                        "x": 1672883066000,
+                        "y": 2497.9,
+                        "total": 9107
+                    },
+                    {
+                        "x": 1672796120000,
+                        "y": 2471.38,
+                        "total": 8977
+                    },
+                    {
+                        "x": 1672709950000,
+                        "y": 2461.08,
+                        "total": 8640
+                    },
+                    {
+                        "x": 1672622606000,
+                        "y": 2448.79,
+                        "total": 8375
+                    },
+                    {
+                        "x": 1672536937000,
+                        "y": 2433.96,
+                        "total": 8150
+                    },
+                    {
+                        "x": 1672450497000,
+                        "y": 2417.99,
+                        "total": 7981
+                    },
+                    {
+                        "x": 1672363887000,
+                        "y": 2382.43,
+                        "total": 7777
+                    },
+                    {
+                        "x": 1672276882000,
+                        "y": 2333.16,
+                        "total": 7597
+                    },
+                    {
+                        "x": 1672190429000,
+                        "y": 2288.05,
+                        "total": 7416
+                    },
+                    {
+                        "x": 1672103668000,
+                        "y": 2264.95,
+                        "total": 7125
+                    },
+                    {
+                        "x": 1672017259000,
+                        "y": 2236.36,
+                        "total": 6916
+                    },
+                    {
+                        "x": 1671930745000,
+                        "y": 2198.96,
+                        "total": 6746
+                    },
+                    {
+                        "x": 1671844228000,
+                        "y": 2157.4,
+                        "total": 6617
+                    },
+                    {
+                        "x": 1671757509000,
+                        "y": 2062.2,
+                        "total": 6461
+                    },
+                    {
+                        "x": 1671671067000,
+                        "y": 1897.31,
+                        "total": 6325
+                    },
+                    {
+                        "x": 1671584343000,
+                        "y": 1642.5,
+                        "total": 6095
+                    },
+                    {
+                        "x": 1671497609000,
+                        "y": 1612.6,
+                        "total": 5715
+                    },
+                    {
+                        "x": 1671410859000,
+                        "y": 1579.6,
+                        "total": 5396
+                    },
+                    {
+                        "x": 1671323608000,
+                        "y": 1527.28,
+                        "total": 4947
+                    },
+                    {
+                        "x": 1671237175000,
+                        "y": 1476.98,
+                        "total": 4500
+                    },
+                    {
+                        "x": 1671150680000,
+                        "y": 1376.7,
+                        "total": 3951
+                    },
+                    {
+                        "x": 1671064139000,
+                        "y": 1180.37,
+                        "total": 2268
+                    },
+                    {
+                        "x": 1670993109000,
+                        "y": 165,
+                        "total": 5
+                    }
+                ],
+                "color": "#e55c83",
+                "marker": {
+                    "enabled": false
+                }
+            },
+            "p900": {
+                "type": "spline",
+                "name": "Top 10%",
+                "data": [
+                    {
+                        "x": 1673919617000,
+                        "y": 2194.1,
+                        "total": 108732
+                    },
+                    {
+                        "x": 1673843517000,
+                        "y": 2185.65,
+                        "total": 107566
+                    },
+                    {
+                        "x": 1673749225000,
+                        "y": 2171.76,
+                        "total": 106008
+                    },
+                    {
+                        "x": 1673662601000,
+                        "y": 2152.98,
+                        "total": 104657
+                    },
+                    {
+                        "x": 1673576037000,
+                        "y": 2135.4,
+                        "total": 103603
+                    },
+                    {
+                        "x": 1673489129000,
+                        "y": 2118.53,
+                        "total": 102757
+                    },
+                    {
+                        "x": 1673402691000,
+                        "y": 2102.68,
+                        "total": 101666
+                    },
+                    {
+                        "x": 1673315715000,
+                        "y": 2093.85,
+                        "total": 99328
+                    },
+                    {
+                        "x": 1673229317000,
+                        "y": 2082.81,
+                        "total": 97664
+                    },
+                    {
+                        "x": 1673142552000,
+                        "y": 2066.13,
+                        "total": 95572
+                    },
+                    {
+                        "x": 1673056367000,
+                        "y": 2042.97,
+                        "total": 93682
+                    },
+                    {
+                        "x": 1672969533000,
+                        "y": 2017.99,
+                        "total": 92191
+                    },
+                    {
+                        "x": 1672883066000,
+                        "y": 1992.99,
+                        "total": 91052
+                    },
+                    {
+                        "x": 1672796120000,
+                        "y": 1956.54,
+                        "total": 89762
+                    },
+                    {
+                        "x": 1672709950000,
+                        "y": 1949.93,
+                        "total": 86396
+                    },
+                    {
+                        "x": 1672622606000,
+                        "y": 1937.34,
+                        "total": 83744
+                    },
+                    {
+                        "x": 1672536937000,
+                        "y": 1921.38,
+                        "total": 81500
+                    },
+                    {
+                        "x": 1672450497000,
+                        "y": 1902.93,
+                        "total": 79802
+                    },
+                    {
+                        "x": 1672363887000,
+                        "y": 1867.2,
+                        "total": 77767
+                    },
+                    {
+                        "x": 1672276882000,
+                        "y": 1821.48,
+                        "total": 75957
+                    },
+                    {
+                        "x": 1672190429000,
+                        "y": 1775.07,
+                        "total": 74154
+                    },
+                    {
+                        "x": 1672103668000,
+                        "y": 1746.57,
+                        "total": 71241
+                    },
+                    {
+                        "x": 1672017259000,
+                        "y": 1707.92,
+                        "total": 69160
+                    },
+                    {
+                        "x": 1671930745000,
+                        "y": 1663.19,
+                        "total": 67459
+                    },
+                    {
+                        "x": 1671844228000,
+                        "y": 1610.835,
+                        "total": 66166
+                    },
+                    {
+                        "x": 1671757509000,
+                        "y": 1517.53,
+                        "total": 64612
+                    },
+                    {
+                        "x": 1671671067000,
+                        "y": 1414.22,
+                        "total": 63228
+                    },
+                    {
+                        "x": 1671584343000,
+                        "y": 1308.46,
+                        "total": 60942
+                    },
+                    {
+                        "x": 1671497609000,
+                        "y": 1284.78,
+                        "total": 57150
+                    },
+                    {
+                        "x": 1671410859000,
+                        "y": 1256.38,
+                        "total": 53951
+                    },
+                    {
+                        "x": 1671323608000,
+                        "y": 1198.29,
+                        "total": 49455
+                    },
+                    {
+                        "x": 1671237175000,
+                        "y": 1136.44,
+                        "total": 44997
+                    },
+                    {
+                        "x": 1671150680000,
+                        "y": 1031.74,
+                        "total": 39509
+                    },
+                    {
+                        "x": 1671064139000,
+                        "y": 798.778,
+                        "total": 22666
+                    },
+                    {
+                        "x": 1670993109000,
+                        "y": 67.5,
+                        "total": 373
+                    }
+                ],
+                "color": "#ac38e4",
+                "marker": {
+                    "enabled": false
+                }
+            },
+            "p750": {
+                "type": "spline",
+                "name": "Top 25%",
+                "data": [
+                    {
+                        "x": 1673843517000,
+                        "y": 1707.98,
+                        "total": 268914
+                    },
+                    {
+                        "x": 1673749225000,
+                        "y": 1687.09,
+                        "total": 265015
+                    },
+                    {
+                        "x": 1673662601000,
+                        "y": 1668.5,
+                        "total": 261636
+                    },
+                    {
+                        "x": 1673576037000,
+                        "y": 1650.93,
+                        "total": 259004
+                    },
+                    {
+                        "x": 1673489129000,
+                        "y": 1633.89,
+                        "total": 256887
+                    },
+                    {
+                        "x": 1673402691000,
+                        "y": 1619.31,
+                        "total": 254162
+                    },
+                    {
+                        "x": 1673315715000,
+                        "y": 1611.61,
+                        "total": 248314
+                    },
+                    {
+                        "x": 1673229317000,
+                        "y": 1598.78,
+                        "total": 244153
+                    },
+                    {
+                        "x": 1673142552000,
+                        "y": 1577.68,
+                        "total": 238924
+                    },
+                    {
+                        "x": 1673056367000,
+                        "y": 1550.26,
+                        "total": 234203
+                    },
+                    {
+                        "x": 1672969533000,
+                        "y": 1518.18,
+                        "total": 230476
+                    },
+                    {
+                        "x": 1672883066000,
+                        "y": 1487.6750000000002,
+                        "total": 227629
+                    },
+                    {
+                        "x": 1672796120000,
+                        "y": 1460.83,
+                        "total": 224407
+                    },
+                    {
+                        "x": 1672709950000,
+                        "y": 1459.4,
+                        "total": 215985
+                    },
+                    {
+                        "x": 1672622606000,
+                        "y": 1449.02,
+                        "total": 209357
+                    },
+                    {
+                        "x": 1672536937000,
+                        "y": 1437.76,
+                        "total": 203752
+                    },
+                    {
+                        "x": 1672450497000,
+                        "y": 1423.33,
+                        "total": 199505
+                    },
+                    {
+                        "x": 1672363887000,
+                        "y": 1393.685,
+                        "total": 194412
+                    },
+                    {
+                        "x": 1672276882000,
+                        "y": 1353.68,
+                        "total": 189896
+                    },
+                    {
+                        "x": 1672190429000,
+                        "y": 1313.1,
+                        "total": 185384
+                    },
+                    {
+                        "x": 1672103668000,
+                        "y": 1287.73,
+                        "total": 178104
+                    },
+                    {
+                        "x": 1672017259000,
+                        "y": 1255.79,
+                        "total": 172893
+                    },
+                    {
+                        "x": 1671930745000,
+                        "y": 1225.16,
+                        "total": 168638
+                    },
+                    {
+                        "x": 1671844228000,
+                        "y": 1192.705,
+                        "total": 165415
+                    },
+                    {
+                        "x": 1671757509000,
+                        "y": 1137.94,
+                        "total": 161526
+                    },
+                    {
+                        "x": 1671671067000,
+                        "y": 1080.27,
+                        "total": 158070
+                    },
+                    {
+                        "x": 1671584343000,
+                        "y": 1020.67,
+                        "total": 152356
+                    },
+                    {
+                        "x": 1671497609000,
+                        "y": 999.484,
+                        "total": 142872
+                    },
+                    {
+                        "x": 1671410859000,
+                        "y": 969.12,
+                        "total": 134879
+                    },
+                    {
+                        "x": 1671323608000,
+                        "y": 905.563,
+                        "total": 123629
+                    },
+                    {
+                        "x": 1671237175000,
+                        "y": 838.17,
+                        "total": 112493
+                    },
+                    {
+                        "x": 1671150680000,
+                        "y": 735.5,
+                        "total": 98772
+                    },
+                    {
+                        "x": 1671064139000,
+                        "y": 527.819,
+                        "total": 56663
+                    },
+                    {
+                        "x": 1670993109000,
+                        "y": 67.5,
+                        "total": 373
+                    }
+                ],
+                "color": "#3d6be0",
+                "marker": {
+                    "enabled": false
+                }
+            },
+            "p600": {
+                "type": "spline",
+                "name": "Top 40%",
+                "data": [
+                    {
+                        "x": 1673919617000,
+                        "y": 1245.41,
+                        "total": 434918
+                    },
+                    {
+                        "x": 1673843517000,
+                        "y": 1238.67,
+                        "total": 430257
+                    },
+                    {
+                        "x": 1673749225000,
+                        "y": 1227.45,
+                        "total": 424023
+                    },
+                    {
+                        "x": 1673662601000,
+                        "y": 1212.24,
+                        "total": 418617
+                    },
+                    {
+                        "x": 1673576037000,
+                        "y": 1197.51,
+                        "total": 414408
+                    },
+                    {
+                        "x": 1673489129000,
+                        "y": 1184.31,
+                        "total": 411017
+                    },
+                    {
+                        "x": 1673402691000,
+                        "y": 1173.86,
+                        "total": 406659
+                    },
+                    {
+                        "x": 1673315715000,
+                        "y": 1171.34,
+                        "total": 397304
+                    },
+                    {
+                        "x": 1673229317000,
+                        "y": 1163.3,
+                        "total": 390641
+                    },
+                    {
+                        "x": 1673142552000,
+                        "y": 1147.81,
+                        "total": 382274
+                    },
+                    {
+                        "x": 1673056367000,
+                        "y": 1129.62,
+                        "total": 374721
+                    },
+                    {
+                        "x": 1672969533000,
+                        "y": 1109.67,
+                        "total": 368759
+                    },
+                    {
+                        "x": 1672883066000,
+                        "y": 1089.84,
+                        "total": 364210
+                    },
+                    {
+                        "x": 1672796120000,
+                        "y": 1073.78,
+                        "total": 359050
+                    },
+                    {
+                        "x": 1672709950000,
+                        "y": 1076.21,
+                        "total": 345571
+                    },
+                    {
+                        "x": 1672622606000,
+                        "y": 1070.49,
+                        "total": 334972
+                    },
+                    {
+                        "x": 1672536937000,
+                        "y": 1063.24,
+                        "total": 326001
+                    },
+                    {
+                        "x": 1672450497000,
+                        "y": 1053.94,
+                        "total": 319207
+                    },
+                    {
+                        "x": 1672363887000,
+                        "y": 1033.06,
+                        "total": 311061
+                    },
+                    {
+                        "x": 1672276882000,
+                        "y": 1003.28,
+                        "total": 303829
+                    },
+                    {
+                        "x": 1672190429000,
+                        "y": 972.94,
+                        "total": 296611
+                    },
+                    {
+                        "x": 1672103668000,
+                        "y": 958.007,
+                        "total": 284964
+                    },
+                    {
+                        "x": 1672017259000,
+                        "y": 934.961,
+                        "total": 276629
+                    },
+                    {
+                        "x": 1671930745000,
+                        "y": 915.016,
+                        "total": 269817
+                    },
+                    {
+                        "x": 1671844228000,
+                        "y": 893.4955,
+                        "total": 264664
+                    },
+                    {
+                        "x": 1671757509000,
+                        "y": 859.356,
+                        "total": 258440
+                    },
+                    {
+                        "x": 1671671067000,
+                        "y": 822.382,
+                        "total": 252910
+                    },
+                    {
+                        "x": 1671584343000,
+                        "y": 785.583,
+                        "total": 243768
+                    },
+                    {
+                        "x": 1671497609000,
+                        "y": 769.516,
+                        "total": 228595
+                    },
+                    {
+                        "x": 1671410859000,
+                        "y": 740.478,
+                        "total": 215803
+                    },
+                    {
+                        "x": 1671323608000,
+                        "y": 674.317,
+                        "total": 197807
+                    },
+                    {
+                        "x": 1671237175000,
+                        "y": 609.128,
+                        "total": 179988
+                    },
+                    {
+                        "x": 1671150680000,
+                        "y": 523.297,
+                        "total": 158036
+                    },
+                    {
+                        "x": 1671064139000,
+                        "y": 355.488,
+                        "total": 90660
+                    },
+                    {
+                        "x": 1670993109000,
+                        "y": 67.5,
+                        "total": 373
+                    }
+                ],
+                "color": "#5da7a3",
+                "marker": {
+                    "enabled": false
+                }
+            }
+        },
+        "keystoneHero": {
+            "score": 2500,
+            "horde": {
+                "quantile": 0.961,
+                "quantileMinValue": 2499.39,
+                "quantilePopulationCount": 27894,
+                "quantilePopulationFraction": 0.039000750821079476,
+                "totalPopulationCount": 715217
+            },
+            "hordeColor": "#d74fa5",
+            "alliance": {
+                "quantile": 0.978,
+                "quantileMinValue": 2497.41,
+                "quantilePopulationCount": 8213,
+                "quantilePopulationFraction": 0.022001778787424188,
+                "totalPopulationCount": 373288
+            },
+            "allianceColor": "#d74fa5",
+            "all": {
+                "quantile": 0.966,
+                "quantileMinValue": 2493.15,
+                "quantilePopulationCount": 37010,
+                "quantilePopulationFraction": 0.03400076251372295,
+                "totalPopulationCount": 1088505
+            },
+            "allColor": "#d74fa5"
+        },
+        "keystoneMaster": {
+            "score": 2000,
+            "horde": {
+                "quantile": 0.818,
+                "quantileMinValue": 1999.88,
+                "quantilePopulationCount": 130172,
+                "quantilePopulationFraction": 0.18200350383170422,
+                "totalPopulationCount": 715217
+            },
+            "hordeColor": "#8c4bea",
+            "alliance": {
+                "quantile": 0.872,
+                "quantileMinValue": 1999.18,
+                "quantilePopulationCount": 47781,
+                "quantilePopulationFraction": 0.12800036432995435,
+                "totalPopulationCount": 373288
+            },
+            "allianceColor": "#8c4bea",
+            "all": {
+                "quantile": 0.836,
+                "quantileMinValue": 1997.76,
+                "quantilePopulationCount": 178515,
+                "quantilePopulationFraction": 0.16400016536442186,
+                "totalPopulationCount": 1088505
+            },
+            "allColor": "#8c4bea"
+        },
+        "keystoneConqueror": {
+            "score": 1500,
+            "horde": {
+                "quantile": 0.662,
+                "quantileMinValue": 1499.84,
+                "quantilePopulationCount": 241745,
+                "quantilePopulationFraction": 0.33800231258485186,
+                "totalPopulationCount": 715217
+            },
+            "hordeColor": "#397ece",
+            "alliance": {
+                "quantile": 0.727,
+                "quantileMinValue": 1498.54,
+                "quantilePopulationCount": 101908,
+                "quantilePopulationFraction": 0.2730010072651679,
+                "totalPopulationCount": 373288
+            },
+            "allianceColor": "#397ece",
+            "all": {
+                "quantile": 0.684,
+                "quantileMinValue": 1498.45,
+                "quantilePopulationCount": 343970,
+                "quantilePopulationFraction": 0.3160022232327826,
+                "totalPopulationCount": 1088505
+            },
+            "allColor": "#397ece"
+        },
+        "keystoneExplorer": {
+            "score": 750,
+            "horde": {
+                "quantile": 0.389,
+                "quantileMinValue": 747.755,
+                "quantilePopulationCount": 436998,
+                "quantilePopulationFraction": 0.6110005774471244,
+                "totalPopulationCount": 715217
+            },
+            "hordeColor": "#3bf337",
+            "alliance": {
+                "quantile": 0.448,
+                "quantileMinValue": 749.441,
+                "quantilePopulationCount": 206055,
+                "quantilePopulationFraction": 0.5520000642935213,
+                "totalPopulationCount": 373288
+            },
+            "allianceColor": "#3bf337",
+            "all": {
+                "quantile": 0.409,
+                "quantileMinValue": 747.798,
+                "quantilePopulationCount": 643307,
+                "quantilePopulationFraction": 0.5910005006867217,
+                "totalPopulationCount": 1088505
+            },
+            "allColor": "#3bf337"
+        },
+        "all10Timed": {
+            "score": 1600,
+            "cutoffs": {
+                "score": 1600,
+                "horde": {
+                    "quantile": 0.694,
+                    "quantileMinValue": 1599.98,
+                    "quantilePopulationCount": 218857,
+                    "quantilePopulationFraction": 0.30600083610987994,
+                    "totalPopulationCount": 715217
+                },
+                "hordeColor": "#1b74d9",
+                "alliance": {
+                    "quantile": 0.758,
+                    "quantileMinValue": 1599.36,
+                    "quantilePopulationCount": 90336,
+                    "quantilePopulationFraction": 0.24200081438460386,
+                    "totalPopulationCount": 373288
+                },
+                "allianceColor": "#1b74d9",
+                "all": {
+                    "quantile": 0.716,
+                    "quantileMinValue": 1599.91,
+                    "quantilePopulationCount": 309139,
+                    "quantilePopulationFraction": 0.28400328891461224,
+                    "totalPopulationCount": 1088505
+                },
+                "allColor": "#1b74d9"
+            }
+        },
+        "all15Timed": {
+            "score": 2160,
+            "cutoffs": {
+                "score": 2160,
+                "horde": {
+                    "quantile": 0.875,
+                    "quantileMinValue": 2158.13,
+                    "quantilePopulationCount": 89403,
+                    "quantilePopulationFraction": 0.12500122340492467,
+                    "totalPopulationCount": 715217
+                },
+                "hordeColor": "#a836e9",
+                "alliance": {
+                    "quantile": 0.92,
+                    "quantileMinValue": 2159.64,
+                    "quantilePopulationCount": 29864,
+                    "quantilePopulationFraction": 0.08000257174085425,
+                    "totalPopulationCount": 373288
+                },
+                "allianceColor": "#a836e9",
+                "all": {
+                    "quantile": 0.89,
+                    "quantileMinValue": 2156.96,
+                    "quantilePopulationCount": 119741,
+                    "quantilePopulationFraction": 0.11000500686721697,
+                    "totalPopulationCount": 1088505
+                },
+                "allColor": "#a836e9"
+            }
+        },
+        "all20Timed": {
+            "score": 2720,
+            "cutoffs": {
+                "score": 2720,
+                "horde": {
+                    "quantile": 0.991,
+                    "quantileMinValue": 2709.03,
+                    "quantilePopulationCount": 6438,
+                    "quantilePopulationFraction": 0.00900146389137842,
+                    "totalPopulationCount": 715217
+                },
+                "hordeColor": "#e96079",
+                "alliance": {
+                    "quantile": 0.995,
+                    "quantileMinValue": 2708.79,
+                    "quantilePopulationCount": 1867,
+                    "quantilePopulationFraction": 0.005001500182164977,
+                    "totalPopulationCount": 373288
+                },
+                "allianceColor": "#e96079",
+                "all": {
+                    "quantile": 0.993,
+                    "quantileMinValue": 2717.67,
+                    "quantilePopulationCount": 7620,
+                    "quantilePopulationFraction": 0.007000427191423099,
+                    "totalPopulationCount": 1088505
+                },
+                "allColor": "#e96079"
+            }
+        },
+        "all25Timed": {
+            "score": 3280,
+            "cutoffs": {
+                "score": 3280,
+                "horde": {
+                    "quantile": 1,
+                    "quantileMinValue": 3237.93,
+                    "quantilePopulationCount": 4,
+                    "quantilePopulationFraction": 0.00000559270822701362,
+                    "totalPopulationCount": 715217
+                },
+                "hordeColor": "#ff8000",
+                "alliance": {
+                    "quantile": 1,
+                    "quantileMinValue": 3237.93,
+                    "quantilePopulationCount": 1,
+                    "quantilePopulationFraction": 0.000002678896723173528,
+                    "totalPopulationCount": 373288
+                },
+                "allianceColor": "#ff8000",
+                "all": {
+                    "quantile": 1,
+                    "quantileMinValue": 3237.93,
+                    "quantilePopulationCount": 5,
+                    "quantilePopulationFraction": 0.000004593456162351115,
+                    "totalPopulationCount": 1088505
+                },
+                "allColor": "#ff8000"
+            }
+        },
+        "isRemappedSeason": false
+    },
+    "ui": {
+        "season": "season-df-1",
+        "region": "eu"
+    }
+}

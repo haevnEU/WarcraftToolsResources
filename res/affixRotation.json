@@ -1,0 +1,274 @@
+{
+    "affix_combos":[
+        {
+            "id":0,
+            "first":{
+                "id":"10",
+                "description":"Non-boss enemies have 20% more health and inflict up to 30% increased damage.This affix will affect every dungeon on a  Fortified week.",
+                "wowhead_url":"https://www.wowhead.com/affix=10/Fortified",
+                "name":"Fortified"
+            },
+            "second":{
+                "id":"6",
+                "description":"Non-boss enemies enrage at 30% health remaining, dealing 50% increased damage until defeated. When this affix is active, AoE and cleave damage can be dangerous. Be sure to mark a priority target in each pull, and when that target  Enrages, focus fire to bring it down quickly. Stuns and other forms of CC can be used to reduce the damage the party will take from  Enraged mobs. Enraged mobs will keep the  Enrage affix even if they are healed about 30% for any reason.",
+                "wowhead_url":"https://www.wowhead.com/affix=6/raging",
+                "name":"Raging"
+            },
+            "third":{
+                "id":"14",
+                "description":"Periodically, all players emit a shockwave, inflicting damage and interrupting nearby allies.",
+                "wowhead_url":"https://www.wowhead.com/affix=14/quaking",
+                "name":"Quaking"
+            },
+            "fourth":{
+                "id":"132",
+                "description":"Enemies have 5% more health. While in combat, players are periodically overcharged with primal power from Raszageth's unending storm. This power comes with great risk, and failure to discharge it quickly can have stunning consequences.",
+                "wowhead_url":"https://www.wowhead.com/affix=132/Thundering",
+                "name":"Thundering"
+            }
+        },
+        {
+            "id":1,
+            "first":{
+                "id":"9",
+                "description":"Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "wowhead_url":"https://www.wowhead.com/affix=9/tyrannical",
+                "name":"Tyrannical"
+            },
+            "second":{
+                "id":"11",
+                "description":"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",
+                "wowhead_url":"https://www.wowhead.com/affix=11/bursting",
+                "name":"Bursting"
+            },
+            "third":{
+                "id":"12",
+                "description":"Injured players suffer increasing damage over time until healed.",
+                "wowhead_url":"https://www.wowhead.com/affix=12/grievous",
+                "name":"Grievous"
+            },
+            "fourth":{
+                "id":"132",
+                "description":"Enemies have 5% more health. While in combat, players are periodically overcharged with primal power from Raszageth's unending storm. This power comes with great risk, and failure to discharge it quickly can have stunning consequences.",
+                "wowhead_url":"https://www.wowhead.com/affix=132/Thundering",
+                "name":"Thundering"
+            }
+        },
+        {
+            "id":2,
+            "first":{
+                "id":"10",
+                "description":"Non-boss enemies have 20% more health and inflict up to 30% increased damage.This affix will affect every dungeon on a  Fortified week.",
+                "wowhead_url":"https://www.wowhead.com/affix=10/Fortified",
+                "name":"Fortified"
+            },
+            "second":{
+                "id":"8",
+                "description":"Whenever a non-boss enemy dies, a pool of  Sanguine Ichor forms at its location, starting from the point it died and expanding. This spell has two effects:Sanguine Ichor heals enemies standing within it for 5% of their health each second Sanguine Ichor deals damage to players standing within it for 15% of their health each second",
+                "wowhead_url":"https://www.wowhead.com/affix=8/sanguine",
+                "name":"Sanguine"
+            },
+            "third":{
+                "id":"3",
+                "description":"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",
+                "wowhead_url":"https://www.wowhead.com/affix=3/volcanic",
+                "name":"Volcanic"
+            },
+            "fourth":{
+                "id":"132",
+                "description":"Enemies have 5% more health. While in combat, players are periodically overcharged with primal power from Raszageth's unending storm. This power comes with great risk, and failure to discharge it quickly can have stunning consequences.",
+                "wowhead_url":"https://www.wowhead.com/affix=132/Thundering",
+                "name":"Thundering"
+            }
+        },
+        {
+            "id":3,
+            "first":{
+                "id":"9",
+                "description":"Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "wowhead_url":"https://www.wowhead.com/affix=9/tyrannical",
+                "name":"Tyrannical"
+            },
+            "second":{
+                "id":"6",
+                "description":"Non-boss enemies enrage at 30% health remaining, dealing 50% increased damage until defeated. When this affix is active, AoE and cleave damage can be dangerous. Be sure to mark a priority target in each pull, and when that target  Enrages, focus fire to bring it down quickly. Stuns and other forms of CC can be used to reduce the damage the party will take from  Enraged mobs. Enraged mobs will keep the  Enrage affix even if they are healed about 30% for any reason.",
+                "wowhead_url":"https://www.wowhead.com/affix=6/raging",
+                "name":"Raging"
+            },
+            "third":{
+                "id":"124",
+                "description":"While in combat, enemies periodically summon damaging whirlwinds.",
+                "wowhead_url":"https://www.wowhead.com/affix=124/storming",
+                "name":"Storming"
+            },
+            "fourth":{
+                "id":"132",
+                "description":"Enemies have 5% more health. While in combat, players are periodically overcharged with primal power from Raszageth's unending storm. This power comes with great risk, and failure to discharge it quickly can have stunning consequences.",
+                "wowhead_url":"https://www.wowhead.com/affix=132/Thundering",
+                "name":"Thundering"
+            }
+        },
+        {
+            "id":4,
+            "first":{
+                "id":"10",
+                "description":"Non-boss enemies have 20% more health and inflict up to 30% increased damage.This affix will affect every dungeon on a  Fortified week.",
+                "wowhead_url":"https://www.wowhead.com/affix=10/Fortified",
+                "name":"Fortified"
+            },
+            "second":{
+                "id":"123",
+                "description":"Fiends rise from the corpses of non-boss enemies and pursue random player.",
+                "wowhead_url":"https://www.wowhead.com/affix=123/spiteful",
+                "name":"Spiteful"
+            },
+            "third":{
+                "id":"12",
+                "description":"Injured players suffer increasing damage over time until healed.",
+                "wowhead_url":"https://www.wowhead.com/affix=12/grievous",
+                "name":"Grievous"
+            },
+            "fourth":{
+                "id":"132",
+                "description":"Enemies have 5% more health. While in combat, players are periodically overcharged with primal power from Raszageth's unending storm. This power comes with great risk, and failure to discharge it quickly can have stunning consequences.",
+                "wowhead_url":"https://www.wowhead.com/affix=132/Thundering",
+                "name":"Thundering"
+            }
+        },
+        {
+            "id":5,
+            "first":{
+                "id":"9",
+                "description":"Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "wowhead_url":"https://www.wowhead.com/affix=9/tyrannical",
+                "name":"Tyrannical"
+            },
+            "second":{
+                "id":"8",
+                "description":"Whenever a non-boss enemy dies, a pool of  Sanguine Ichor forms at its location, starting from the point it died and expanding. This spell has two effects:Sanguine Ichor heals enemies standing within it for 5% of their health each second Sanguine Ichor deals damage to players standing within it for 15% of their health each second",
+                "wowhead_url":"https://www.wowhead.com/affix=8/sanguine",
+                "name":"Sanguine"
+            },
+            "third":{
+                "id":"13",
+                "description":"While in combat, enemies periodically summon Explosive Orbs that will detonate if not destroyed.",
+                "wowhead_url":"https://www.wowhead.com/affix=13/explosive",
+                "name":"Explosive"
+            },
+            "fourth":{
+                "id":"132",
+                "description":"Enemies have 5% more health. While in combat, players are periodically overcharged with primal power from Raszageth's unending storm. This power comes with great risk, and failure to discharge it quickly can have stunning consequences.",
+                "wowhead_url":"https://www.wowhead.com/affix=132/Thundering",
+                "name":"Thundering"
+            }
+        },
+        {
+            "id":6,
+            "first":{
+                "id":"10",
+                "description":"Non-boss enemies have 20% more health and inflict up to 30% increased damage.This affix will affect every dungeon on a  Fortified week.",
+                "wowhead_url":"https://www.wowhead.com/affix=10/Fortified",
+                "name":"Fortified"
+            },
+            "second":{
+                "id":"7",
+                "description":"When any non-boss enemy dies, its death cry empowers nearby allies, temporarily increasing their maximum health by 15% and damage by 20%.          Enemies who die will buff other nearby enemies which are in combat with  Bolster, causing them to gain 20% health and deal 20% additional damage. This can stack multiple times, resulting in an extremely dangerous enemy that will take a long time to defeat. The range on the buffing ability is 30 yards.",
+                "wowhead_url":"https://www.wowhead.com/affix=7/bolstering",
+                "name":"Bolstering"
+            },
+            "third":{
+                "id":"124",
+                "description":"While in combat, enemies periodically summon damaging whirlwinds.",
+                "wowhead_url":"https://www.wowhead.com/affix=124/storming",
+                "name":"Storming"
+            },
+            "fourth":{
+                "id":"132",
+                "description":"Enemies have 5% more health. While in combat, players are periodically overcharged with primal power from Raszageth's unending storm. This power comes with great risk, and failure to discharge it quickly can have stunning consequences.",
+                "wowhead_url":"https://www.wowhead.com/affix=132/Thundering",
+                "name":"Thundering"
+            }
+        },
+        {
+            "id":7,
+            "first":{
+                "id":"9",
+                "description":"Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "wowhead_url":"https://www.wowhead.com/affix=9/tyrannical",
+                "name":"Tyrannical"
+            },
+            "second":{
+                "id":"123",
+                "description":"Fiends rise from the corpses of non-boss enemies and pursue random player.",
+                "wowhead_url":"https://www.wowhead.com/affix=123/spiteful",
+                "name":"Spiteful"
+            },
+            "third":{
+                "id":"14",
+                "description":"Periodically, all players emit a shockwave, inflicting damage and interrupting nearby allies.",
+                "wowhead_url":"https://www.wowhead.com/affix=14/quaking",
+                "name":"Quaking"
+            },
+            "fourth":{
+                "id":"132",
+                "description":"Enemies have 5% more health. While in combat, players are periodically overcharged with primal power from Raszageth's unending storm. This power comes with great risk, and failure to discharge it quickly can have stunning consequences.",
+                "wowhead_url":"https://www.wowhead.com/affix=132/Thundering",
+                "name":"Thundering"
+            }
+        },
+        {
+            "id":8,
+            "first":{
+                "id":"10",
+                "description":"Non-boss enemies have 20% more health and inflict up to 30% increased damage.This affix will affect every dungeon on a  Fortified week.",
+                "wowhead_url":"https://www.wowhead.com/affix=10/Fortified",
+                "name":"Fortified"
+            },
+            "second":{
+                "id":"11",
+                "description":"When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.",
+                "wowhead_url":"https://www.wowhead.com/affix=11/bursting",
+                "name":"Bursting"
+            },
+            "third":{
+                "id":"13",
+                "description":"While in combat, enemies periodically summon Explosive Orbs that will detonate if not destroyed.",
+                "wowhead_url":"https://www.wowhead.com/affix=13/explosive",
+                "name":"Explosive"
+            },
+            "fourth":{
+                "id":"132",
+                "description":"Enemies have 5% more health. While in combat, players are periodically overcharged with primal power from Raszageth's unending storm. This power comes with great risk, and failure to discharge it quickly can have stunning consequences.",
+                "wowhead_url":"https://www.wowhead.com/affix=132/Thundering",
+                "name":"Thundering"
+            }
+        },
+        {
+            "id":9,
+            "first":{
+                "id":"9",
+                "description":"Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "wowhead_url":"https://www.wowhead.com/affix=9/tyrannical",
+                "name":"Tyrannical"
+            },
+            "second":{
+                "id":"7",
+                "description":"When any non-boss enemy dies, its death cry empowers nearby allies, temporarily increasing their maximum health by 15% and damage by 20%.          Enemies who die will buff other nearby enemies which are in combat with  Bolster, causing them to gain 20% health and deal 20% additional damage. This can stack multiple times, resulting in an extremely dangerous enemy that will take a long time to defeat. The range on the buffing ability is 30 yards.",
+                "wowhead_url":"https://www.wowhead.com/affix=7/bolstering",
+                "name":"Bolstering"
+            },
+            "third":{
+                "id":"3",
+                "description":"While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of distant players.",
+                "wowhead_url":"https://www.wowhead.com/affix=3/volcanic",
+                "name":"Volcanic"
+            },
+            "fourth":{
+                "id":"132",
+                "description":"Enemies have 5% more health. While in combat, players are periodically overcharged with primal power from Raszageth's unending storm. This power comes with great risk, and failure to discharge it quickly can have stunning consequences.",
+                "wowhead_url":"https://www.wowhead.com/affix=132/Thundering",
+                "name":"Thundering"
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "region": "eu",
+    "title": "Fortified, Spiteful, Grievous, Thundering",
+    "leaderboard_url": "https://raider.io/mythic-plus-affix-rankings/season-df-1/all/eu/leaderboards-strict/fortified-spiteful-grievous-thundering",
+    "affix_details": [
+        {
+            "id": 10,
+            "name": "Fortified",
+            "description": "Non-boss enemies have 20% more health and inflict up to 30% increased damage.",
+            "icon": "ability_toughness",
+            "wowhead_url": "https://wowhead.com/affix=10"
+        },
+        {
+            "id": 123,
+            "name": "Spiteful",
+            "description": "Fiends rise from the corpses of non-boss enemies and pursue random players.",
+            "icon": "spell_holy_prayerofshadowprotection",
+            "wowhead_url": "https://wowhead.com/affix=123"
+        },
+        {
+            "id": 12,
+            "name": "Grievous",
+            "description": "Injured players suffer increasing damage over time until healed.",
+            "icon": "ability_backstab",
+            "wowhead_url": "https://wowhead.com/affix=12"
+        },
+        {
+            "id": 132,
+            "name": "Thundering",
+            "description": "Enemies have 5% more health. While in combat, players are periodically overcharged with primal power from Raszageth's unending storm. This power comes with great risk, and failure to discharge it quickly can have stunning consequences.",
+            "icon": "spell_shaman_thunderstorm",
+            "wowhead_url": "https://wowhead.com/affix=132"
+        }
+    ]
+}
