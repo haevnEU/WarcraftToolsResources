@@ -1,0 +1,93 @@
+{   
+    "score" : {
+        "minScore": {
+            "value": -200,
+            "rating": 0.8
+        },
+        "maxScore": {
+            "value": 200,
+            "rating": 0.9
+        },
+        "perfect":{
+            "value": 0,
+            "rating": 1.2
+        },
+        "previous":{
+            "value": 0,
+            "rating": 1.2
+        }
+    },
+
+    "dungeon" : {
+        "maxKeystoneLevel": {
+            "value": 0,
+            "rating": 0.0
+        },
+        "minKeystoneLevel": {
+            "value": 0,
+            "rating": 0.0
+        },
+        "maxKeystoneLevelTimed": {
+            "value": 0,
+            "rating": 0.0
+        }
+    },
+
+    "general" : {
+        "faction": [
+            {
+                "value": "ALLIANCE",
+                "rating": 0.9
+            }
+        ],
+        "realm": [
+            {
+                "value": "EREDAR",
+                "rating": 0.5
+            }, 
+            {
+                "value": "KAZZAK",
+                "rating": 0.5
+            }, {
+                "value": "TWISTING_NETHER",
+                "rating": 0.5
+            }, {
+                "value": "SANGUINO",
+                "rating": 0.5
+            }, {
+                "value": "RAVENCREST",
+                "rating": 0.5
+            }
+        ],
+        "country":[
+            {
+                "value": "DE",
+                "rating": 1
+            },
+            {
+                "value": "FR",
+                "rating": 0.75
+            }, {
+                "value": "RU",
+                "rating": 0.875
+            }, {
+                "value": "IT",
+                "rating": 1
+            }, {
+                "value": "SP",
+                "rating": 0.75
+            }, {
+                "value": "EN",
+                "rating": 1
+            }
+        ]
+    },
+
+    "time":{
+        "min" : {
+            "value": 0,
+            "rating": 0.9
+        }
+    }
+    
+}
