@@ -1,8 +1,8 @@
-git.url.seasonal=https://raw.githubusercontent.com/nimile/WarcraftToolsResources/master/json/SeasonalDungeons.json
-git.url.definition=https://raw.githubusercontent.com/nimile/WarcraftToolsResources/master/json/suggestions.json
-git.url.scoreMap=https://raw.githubusercontent.com/nimile/WarcraftToolsResources/master/json/scoremap.json
-git.url.affixCombo=https://raw.githubusercontent.com/nimile/WarcraftToolsResources/master/json/affixRotation.json
-git.url.realm=https://raw.githubusercontent.com/nimile/WarcraftToolsResources/master/json/realms.json
+git.url.seasonal=https://raw.githubusercontent.com/nimile/WarcraftToolsResources/master/res/SeasonalDungeons.json
+git.url.definition=https://raw.githubusercontent.com/nimile/WarcraftToolsResources/master/res/suggestions.json
+git.url.scoreMap=https://raw.githubusercontent.com/nimile/WarcraftToolsResources/master/res/scoremap.json
+git.url.affixCombo=https://raw.githubusercontent.com/nimile/WarcraftToolsResources/master/res/affixRotation.json
+git.url.realm=https://raw.githubusercontent.com/nimile/WarcraftToolsResources/master/res/realms.json
 
 rio.url.cutoff.current=https://raider.io/mythic-plus/cutoffs/season-df-1/eu
 rio.url.currentAffix=https://raider.io/api/v1/mythic-plus/affixes?region=%s&locale=en
