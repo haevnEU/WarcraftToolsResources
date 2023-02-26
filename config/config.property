@@ -1,10 +1,8 @@
-#Updated app.theme to PALADIN
-#Sat Feb 25 22:54:40 CET 2023
 preview=true
-app.theme=PALADIN
+app.theme=DARK
 license=true
 api.refresh=300
-app.build=2.0.0.1
+app.build=2.1.0.3
 network.timeout=10
 region=eu
 app.name=Warcraft Tools
