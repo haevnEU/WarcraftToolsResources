@@ -23,6 +23,48 @@
       "url": "https://keystone.guru"
     }
   ],
-  "raid": [],
-  "other": []
+  "raid": [
+    {
+      "name":"Mythic Trap",
+      "url":"https://www.mythictrap.com/en"
+    },
+    {
+      "name":"Raid Subcreation",
+      "url":"https://raid.subcreation.net/"
+    },{
+      "name":"Raidplan.io",
+      "url": "https://raidplan.io/"
+    }
+  ],
+  "other": [
+    {
+      "name":"Wowhead",
+      "url":"https://www.wowhead.com/"
+    },
+    {
+      "name":"Wago.io",
+      "url":"https://wago.io/"
+    },    
+    {
+      "name":"Raidbots",
+      "url":"https://www.raidbots.com/simbot"
+    },
+    
+    {
+      "name":"Competetive Reddit",
+      "url":"https://www.reddit.com/r/CompetitiveWoW/"
+    }
+    {
+      "name":"Warcraft Logs",
+      "url":"https://www.warcraftlogs.com/"
+    },
+    {
+      "name":"WoWAnalyzer",
+      "url":"https://wowanalyzer.com/"
+    },
+    {
+      "name":"Wipefest",
+      "url":"https://www.wipefest.gg/?gameVersion=warcraft-live"
+    }
+  ]
 }
