@@ -1,9 +1,5 @@
-preview=true
 app.theme=DARK
 license=true
 api.refresh=300
-app.build=2.1.0.3
 network.timeout=10
 region=eu
-app.name=Warcraft Tools
-app.version=BETA 2
