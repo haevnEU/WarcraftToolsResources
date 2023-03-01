@@ -2,6 +2,7 @@ app.theme=DARK
 app.region=eu
 app.license=true
 backup.wow.auto=false
+backup.wow.path=
 network.refresh=300
 network.timeout=10
 
