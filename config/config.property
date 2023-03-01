@@ -1,5 +1,6 @@
 app.theme=DARK
+app.region=eu
 license=true
 api.refresh=300
 network.timeout=10
-region=eu
+
